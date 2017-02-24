@@ -41,68 +41,68 @@
 						<div class="col-lg-6 col-xs-6 cantine">
 							<form method="post" action="ajoutBase.php">
 									<h3>Lundi </h3>
-									<input type="date" name="jour">
+									<input type="date" name="jourLundi">
 									<p>
 										<h4>entrée</h4>
-											<input type="text" name="entrée" placeholder="entrée"><br>
+											<input type="text" name="entreeLundi" placeholder="entrée"><br>
 
 										<h4>plat de resistance</h4>
-											<input type="text" name="legumes" placeholder="legumes"><br>
-											<input type="text" name="viande" placeholder="viande"><br>
+											<input type="text" name="legumesLundi" placeholder="legumes"><br>
+											<input type="text" name="viandeLundi" placeholder="viande"><br>
 
 										<h4>dessert</h4>
-											<input type="text" name="dessert" placeholder="dessert">
+											<input type="text" name="dessertLundi" placeholder="dessert">
 
 									</p>
 								</div>
 
 								<div class="col-lg-6 col-xs-6 cantine">
 									<h3>Mardi</h3>
-									<input type="date" name="jour">
+									<input type="date" name="jourMardi">
 									<p>
 										<h4>entrée</h4>
-											<input type="text" name="entrée" placeholder="entrée"><br>
+											<input type="text" name="entreeMardi" placeholder="entrée"><br>
 
 										<h4>plat de resistance</h4>
-											<input type="text" name="legumes" placeholder="legumes"><br>
-											<input type="text" name="viande" placeholder="viande"><br>
+											<input type="text" name="legumesMardi" placeholder="legumes"><br>
+											<input type="text" name="viandeMardi" placeholder="viande"><br>
 
 										<h4>dessert</h4>
-											<input type="text" name="dessert" placeholder="dessert">
+											<input type="text" name="dessertMardi" placeholder="dessert">
 
 									</p>
 								</div>
 
 								<div class="col-lg-6 col-xs-6 cantine">
 									<h3>Jeudi</h3>
-									<input type="date" name="jour">
+									<input type="date" name="jourJeudi">
 									<p>
 										<h4>entrée</h4>
-											<input type="text" name="entrée" placeholder="entrée"><br>
+											<input type="text" name="entreeJeudi" placeholder="entrée"><br>
 
 										<h4>plat de resistance</h4>
-											<input type="text" name="legumes" placeholder="legumes"><br>
-											<input type="text" name="viande" placeholder="viande"><br>
+											<input type="text" name="legumesJeudi" placeholder="legumes"><br>
+											<input type="text" name="viandeJeudi" placeholder="viande"><br>
 
 										<h4>dessert</h4>
-											<input type="text" name="dessert" placeholder="dessert">
+											<input type="text" name="dessertJeudi" placeholder="dessert">
 
 									</p>
 								</div>
 
 								<div class="col-lg-6 col-xs-6 cantine">
 									<h3>Vendredi</h3>
-									<input type="date" name="jour">
+									<input type="date" name="jourVendredi">
 									<p>
 										<h4>entrée</h4>
-											<input type="text" name="entrée" placeholder="entrée"><br>
+											<input type="text" name="entreeVendredi" placeholder="entrée"><br>
 
 										<h4>plat de resistance</h4>
-											<input type="text" name="legumes" placeholder="legumes"><br>
-											<input type="text" name="viande" placeholder="viande"><br>
+											<input type="text" name="legumesVendredi" placeholder="legumes"><br>
+											<input type="text" name="viandeVendredi" placeholder="viande"><br>
 
 										<h4>dessert</h4>
-											<input type="text" name="dessert" placeholder="dessert"><br/>
+											<input type="text" name="dessertVendredi" placeholder="dessert"><br/>
 
 
 									</p>
